@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(
+        #b69ede,
+        rgba(0,0,0,0) calc(75%)
+    );
+}
+
+@font-face {
+    font-family: 'GT Walsheim Pro'; /*a name to be used later*/
+    src: url('./GTWalsheimPro-Regular.ttf'); /*URL to font*/
+}
